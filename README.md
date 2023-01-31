@@ -7,4 +7,4 @@ The example is strongly inspired by this [Flask project written in Python](https
 The java-container folder contains a classic maven project with pom.xml and Dockerfile
 
 Function handler :
-https://github.com/qlefevre/serverless-scaleway-containers/blob/38f2ea8d1489ad078fc14a871fc9bd8225077f3a/java-container/src/main/java/Handler.java#L1-L25
+https://github.com/qlefevre/serverless-scaleway-containers/blob/38f2ea8d1489ad078fc14a871fc9bd8225077f3a/java-container/src/main/java/Handler.java#L7-L25
